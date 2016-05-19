@@ -6,7 +6,7 @@ The "GreeterTest" uses the arquillian-jrebel-extension to echo "Hello, Earthling
 
 The elapsed times of the first and second test-run can be compared, as the second test-run can be performed without redeployment.
 
-With these results it can be evaluated, whether "JRebel + arquillian-jrebel-extension" can speedup Testdriven-Development.
+These results can be helpful for evaluation, whether "JRebel + arquillian-jrebel-extension" can speedup Testdriven-Development.
 
 
 # How to run
